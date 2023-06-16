@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O AluraPlus é um site para voce comprar pacote do curso Alura .
 
-- [Acesse o projeto finalizado, online]( https://aluraplus-xi-sand.vercel.app/ target="_blank)
+- [Acesse o projeto finalizado, online] ( https://aluraplus-xi-sand.vercel.app/)
 
 ## 🔖 Layout
 
